@@ -41,13 +41,11 @@ Here are some ideas to get you started:
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=briyandyju09&show_icons=true&locale=en&layout=compact" alt="briyandyju09" /></p>
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briyandyju09&hide_progress=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=briyandyju09&show_icons=true&locale=en" alt="briyandyju09" /></p>
-<br>
+![Briyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=briyandyju09&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=briyandyju09&" alt="briyandyju09" /></p>
+<p>mg align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=briyandyju09&" alt="briyandyju09" /></p>
 
 <br>
 
