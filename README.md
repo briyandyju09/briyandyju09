@@ -1,4 +1,4 @@
-a### Hi there 👋
+## Hi there 👋
 
 <!--
 **briyandyju09/briyandyju09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briyandyju09&hide_progress=true)
 
 ![Briyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=briyandyju09&show_icons=true&theme=radical)
-
-<p>mg align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=briyandyju09&" alt="briyandyju09" /></p>
 
 <br>
 
