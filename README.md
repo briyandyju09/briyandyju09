@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">I'm Briyan George Dyju!</h1>
-<h3 align="center">A passionate developer from India brought up in Dubai</h3>
+<h1 align="center"><img src="/banner.png" alt="briyandyju09" /></h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briyandyju09&label=Profile%20views&color=0e75b6&style=flat" alt="briyandyju09" /> </p>
 
