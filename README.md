@@ -1,8 +1,27 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=briyandyju09&label=Profile%20views&color=0e75b6&style=flat" alt="briyandyju09" /> </p>
+```text
+         _nnnn_
+        dGGGGMMb           briyan@georgedyju ------------------------------------------
+       @p~qp~~qMb         . OS: . . . . . . . . Windows 11, Ubuntu Linux, Android 15
+       M|@||@) M|         . Uptime: . . . . . . . . . . . . . . 16 years
+       @,----.JM|         . Host: . . . . . . . . . . . . Onboard Team @ HCB by HackClub
+      JS^\__/  qKL        . Kernel: . . . Hack Clubber, Tech Enthusiast and Programmer
+     dZP        qKRb      . IDE: . . . . . . . . . . . . VSCode, EasyEDA, Android Studio
+    dZP          qKKb     .
+   fZP            SMMb    . Languages.Programming: . . . . . . Python, JavaScript, Dart
+   HZM            MMMM    . Languages.Computer: . . . . . . . . . . . JSON, .md, HTML
+   FqM            MMMM    . Languages.Real: . . . . English, Malayalam, French & Arabic
+ __| ".        |\dS"qML   .
+ |    `.       | `' \Zq   . Hobbies.IT: . . . . . Android Modding, PCB & Electronics Dev
+_)      \.___.,|     .'   . Hobbies.ExtraCurricular: . . . Football/Soccer, Photography
+\____   )MMMMMP|   .'     
+     `-'       `--'       - Contact --------------------------------------------------
+                          . Email.Personal: . . . . . . . . . . briyandyju@gmail.com
+                          . Email.Work: . . . . . . . . . . . briyan@hackclub.com
+                          . Instagram: . . . . . . . . . . . . . . . . . @gobeyondthehype
+                          . LinkedIn: . . . . . . . . . . [linkedin.com/in/briyandyju](https://linkedin.com/in/briyandyju)
 
-<a href="https://github.com/briyandyju09/briyandyju09">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/briyandyju09/briyandyju09/main/image.svg">
-    <img alt="Briyan Dyju's GitHub Profile README" src="https://raw.githubusercontent.com/briyandyju09/briyandyju09/main/image.svg">
-  </picture>
-</a>
+
+                          - GitHub Stats ---------------------------------------------
+                          . Repos: .... 65 {Contributed: 58} | Stars: .......... 9.3k
+                          . Commits: ................... 613 | Followers: .......... 7
+                          . Lines of Code on GitHub: . 300,000 ( 350,000++,  50,000-- )
