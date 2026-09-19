@@ -2,8 +2,8 @@
          _nnnn_
         dGGGGMMb           briyan@georgedyju ------------------------------------------
        @p~qp~~qMb         . OS: . . . . . . . . Windows 11, Ubuntu Linux, Android 15
-       M|@||@) M|         . Uptime: . . . . . . . . . . . . . . 16 years
-       @,----.JM|         . Host: . . . . . . . . . . . . Onboard Team @ HCB by HackClub
+       M|@||@) M|         . Uptime: . . . . . . . . . . . . . . 17 years
+       @,----.JM|         . Host: . . . . . . . . . . . . . Operations Associate @ HCB
       JS^\__/  qKL        . Kernel: . . . Hack Clubber, Tech Enthusiast and Programmer
      dZP        qKRb      . IDE: . . . . . . . . . . . . VSCode, EasyEDA, Android Studio
     dZP          qKKb     .
