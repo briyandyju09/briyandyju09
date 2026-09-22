@@ -18,10 +18,4 @@ _)      \.___.,|     .'   . Hobbies.ExtraCurricular: . . . Football/Soccer, Phot
                           . Email.Personal: . . . . . . . . . . briyandyju@gmail.com
                           . Email.Work: . . . . . . . . . . . briyan@hackclub.com
                           . Instagram: . . . . . . . . . . . . . . . . . @gobeyondthehype
-                          . LinkedIn: . . . . . . . . . . [linkedin.com/in/briyandyju](https://linkedin.com/in/briyandyju)
-
-
-                          - GitHub Stats ---------------------------------------------
-                          . Repos: .... 65 {Contributed: 58} | Stars: .......... 9.3k
-                          . Commits: ................... 613 | Followers: .......... 7
-                          . Lines of Code on GitHub: . 300,000 ( 350,000++,  50,000-- )
+                          . LinkedIn: . . . . . . . . . . https://linkedin.com/in/briyandyju
